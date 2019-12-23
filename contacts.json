@@ -1,0 +1,22 @@
+[
+    {
+        "firstName": "Doris",
+        "lastName": "Castillo",
+        "email": "doris@toricode.com"
+    },
+    {
+        "firstName": "Jerry",
+        "lastName": "Fernandez",
+        "email": "jerry@toricode.com"
+    },
+    {
+        "firstName": "Jessica",
+        "lastName": "Schultz",
+        "email": "jessica@toricode.com"
+    },
+    {
+        "firstName": "Janice",
+        "lastName": "Stone",
+        "email": "janice@toricode.com"
+    }
+]
